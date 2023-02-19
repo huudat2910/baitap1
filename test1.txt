@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sua file test1
+=======
+day la test 1
+>>>>>>> c2d7a68c3fcca8b31933a861adbfe41df8a571d3
