@@ -1,7 +1,14 @@
+<<<<<<< HEAD
+sua file test1
+=======
 day la test 1
+<<<<<<< HEAD
 
 
 
 
 
 Them them them
+=======
+>>>>>>> c2d7a68c3fcca8b31933a861adbfe41df8a571d3
+>>>>>>> 9f1f1bc4eba6312d5ddc7afc11817d3048f6e10d
